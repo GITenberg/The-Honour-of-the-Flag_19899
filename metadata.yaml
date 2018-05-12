@@ -1,0 +1,37 @@
+_repo: The-Honour-of-the-Flag_19899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
+description: The seagoing fiction of W. Clark Russell has been compared to Poe, London,
+  Cooper, Marryat, and William Hope Hodgson. This 1895 collection includes Cornered!",
+  A Midnight Visitor," The Strange Adventures of a South Seaman," The Adventures of
+  Three Sailors," The Strange Tragedy of the White Star,'" and The Ship Seen on the
+  Ice."
+gutenberg_issued: '2006-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19899'
+  lccn: 08001803
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sea stories, English'
+tableOfContents: The honor of the flag -- Cornered! -- A midnight visitor -- Plums
+  from a sailor's duff -- The strange adventures of a South Seaman -- The adventures
+  of three sailors -- The strange tragedy of the "White Star" -- The ship seen on
+  the ice.
+title: The Honour of the Flag
+url: http://www.gutenberg.org/ebooks/19899
